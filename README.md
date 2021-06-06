@@ -7,4 +7,4 @@ Note: Remember to replace 'yourClientID' and 'yourClientSecret' with your own cr
 
 https://developer.spotify.com/dashboard/
 
-![alt text](https://github.com/postcode-x/spotipy_example/blob/main/output.png)
+![alt text](https://github.com/postcode-x/spotipy-example/blob/main/output.png)
