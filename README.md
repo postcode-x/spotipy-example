@@ -1,7 +1,9 @@
 # spotipy-example
 ## Querying playlist tracks and features using Spotipy
 
-Use this Python script to query all the tracks and their correspondent audio features from a given Spotify playlist. The result will be stored as a JSON file in the "data" folder, which you can eventually process in any way you want. You can easily modify this code to accept multiple playlists.
+[Tutorial](https://postcode-x.web.app/posts/como-usar-api-spotify-python/)
+
+Use this Python script to query all the tracks and their correspondent audio features from a given Spotify playlist. The result will be stored as a JSON file inside the "data" folder, which you can eventually process in any way you want. You can easily modify this code to accept multiple playlists.
 
 Note: Remember to replace 'yourClientID' and 'yourClientSecret' with your own credentials.
 
